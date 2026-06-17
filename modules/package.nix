@@ -24,6 +24,7 @@
     pfetch
     mangohud
     brightnessctl
+    localsend
 
     hyprland
     wofi
